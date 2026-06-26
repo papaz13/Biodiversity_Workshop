@@ -1,5 +1,5 @@
 title: COUNTRY NAME Training Template
-description: A website template for the SIG Caribbean trainings
+description: A website template for the Biodiversity LATAM trainings
 baseurl: "/biodiversity_workshop" # the subpath of your site, e.g. /blog
 url: "https://papaz13.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 
@@ -10,9 +10,9 @@ remote_theme: just-the-docs/just-the-docs
 color_scheme: dark
 
 # Aux links for the upper right navigation
-aux_links:
-  "SERVIR-Amazonia":
-    - "//www.servir.alliancebioversityciat.org"
+# aux_links:
+#   "SERVIR-Amazonia":
+#     - "//www.servir.alliancebioversityciat.org"
 
 # Makes Aux links open in a new tab. Default is false
 aux_links_new_tab: true
