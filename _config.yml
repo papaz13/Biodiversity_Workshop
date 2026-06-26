@@ -1,6 +1,6 @@
 title: COUNTRY NAME Training Template
 description: A website template for the SIG Caribbean trainings
-baseurl: "/Biodiversity_Workshop" # the subpath of your site, e.g. /blog
+baseurl: "/biodiversity_workshop" # the subpath of your site, e.g. /blog
 url: "https://papaz13.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 logo: "/images/samz_usaid_nasa_ciat_sig.png"
 
